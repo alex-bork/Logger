@@ -1,4 +1,4 @@
-# Logger v1.0
+# Logger
 Simple Logger Application that can be used via command line. 
 </br>
 </br>
@@ -11,4 +11,6 @@ Has the following parameter:
 | -n (--new) | - | no | Flag that defines if a log file should be created, if not exists
 | -t (--type) | string(1) | no | Message type: i (Info), s (Success) , e (Error) , w (Warning)
 | -l (--level) | integer | no | Level of text indentation in the file |
-  
+
+## v1.1
+- deleted unnessesary message
